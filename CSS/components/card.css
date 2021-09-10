@@ -1,0 +1,19 @@
+
+.card h3 {
+  font-size: 40px;
+  color: white;
+  font-weight: bolder;
+  margin-bottom: 20px;
+}
+
+.card p {
+  color: white;
+  margin-bottom: 20px;
+}
+
+.card img {
+  width: 220px;
+  margin: 20px;
+  margin-bottom: 20px;
+  box-shadow: 1px 1px 1px;
+}
